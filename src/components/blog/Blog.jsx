@@ -6,7 +6,7 @@ import style from './Blog.module.css'
 const Blog = () => {
 
     const [book, setbook] = useState([]);
-    const [readtime, setreadtime] = useState([]);
+    const [readtime, setreadtime] = useState(0);
     
    function addbookmark(title){
 
@@ -17,8 +17,8 @@ const Blog = () => {
 
     function addreadtime(time){
        
-        const totalTime = parseFloat(readtime) + time
-        console.log
+        const totalTime =parseFloat(readtime) + time
+        console.log(totalTime)
         setreadtime(totalTime)
     }
 
