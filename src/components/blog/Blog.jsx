@@ -6,7 +6,8 @@ import style from './Blog.module.css'
 const Blog = () => {
 
     const [book, setbook] = useState([]);
- 
+    const [readtime, setreadtime] = useState([]);
+    
    function addbookmark(title){
 
         const booklist = [...book, title]
@@ -15,7 +16,10 @@ const Blog = () => {
     }
 
     function addreadtime(time){
-        console.log(time)
+       
+        const totalTime = parseFloat(readtime) + time
+        console.log
+        setreadtime(totalTime)
     }
 
     return (
@@ -47,7 +51,7 @@ const Blog = () => {
             }
            </div>
            <div className={style.bookmarkarea}>
-             <div className={style.spendTime}>spnt time  on read : 0 min</div>
+             <div className={style.spendTime}>spnt time  on read : {readtime} min</div>
              <div className={style.addbookmarkdiv}>
                {
                 book.map(booklist => (
