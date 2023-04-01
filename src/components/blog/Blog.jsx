@@ -45,8 +45,9 @@ const Blog = () => {
                         </div>
                         <div className={style.title}><h1>{data.title}</h1></div>
                         <p className={style.tag}>#begginer #programming </p>
+                        
                         <a onClick={()=>addreadtime(data.readTime)} className={style.linkid}>mark as read</a>
-                </div>
+                </div> 
                 ))
             }
            </div>
