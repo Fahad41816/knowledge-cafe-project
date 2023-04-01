@@ -9,7 +9,6 @@ const Blog = () => {
     const [readtime, setreadtime] = useState(0);
     
    function addbookmark(title){
-
         const booklist = [...book, title]
         setbook(booklist)
         
@@ -45,11 +44,12 @@ const Blog = () => {
                         </div>
                         <div className={style.title}><h1>{data.title}</h1></div>
                         <p className={style.tag}>#begginer #programming </p>
-                        
+
                         <a onClick={()=>addreadtime(data.readTime)} className={style.linkid}>mark as read</a>
                 </div> 
                 ))
             }
+            {/* bookmark list  */}
            </div>
            <div className={style.bookmarkarea}>
              <div className={style.spendTime}>spnt time  on read : {readtime} min</div>
