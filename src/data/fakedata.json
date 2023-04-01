@@ -1,0 +1,39 @@
+ [
+    {
+        "name":"asajur jaman",
+        "title":"Web developer.",
+        "Image":"https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bm9tYWwlMjBwaWMlMjBtYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "backgroundImage":"https://images.unsplash.com/photo-1619115445441-d6e75309000d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29kZWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "readTime" : 0.8,
+        "date": "Mar 14 (4 Days ago)"
+
+    },
+    {
+        "name":"nahidul islam",
+        "title":"Database administrator.",
+        "Image":"https://media.istockphoto.com/id/1390307383/photo/a-day-at-the-office.jpg?b=1&s=170667a&w=0&k=20&c=zVB0jv6bZxrrnoeYwfeoZintZjWxjhUxV9XEixCO0ZQ=",
+        "backgroundImage":"https://images.unsplash.com/photo-1618593460108-4054ee753d5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kZWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "readTime" : 0.5,
+        "date": "Mar 22 (4 Days ago)"
+    
+    },
+    {
+        "name":"imran hossaine",
+        "title":"Programmer analyst.",
+        "Image":"https://media.istockphoto.com/id/1264785543/photo/smiling-and-smart-caucasian-businessman-in-black-suit-and-asian-teamwork-wearing-masks.jpg?b=1&s=170667a&w=0&k=20&c=h6QRcPqN1P4RoJzlOEtWrh-Q2s8hZGSWqT1oWjZLMCc=",
+        "backgroundImage":"https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kZWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "readTime" : 0.10,
+        "date": "Mar 12 (6 Days ago)"
+    
+    },
+    {
+        "name":"dabit john",
+        "title":"Computer systems engineer.",
+        "Image":"https://media.istockphoto.com/id/1264847340/photo/smiling-and-smart-asain-businessman-with-teamwork-at-office-new-nomal-and-social-distace-of.jpg?b=1&s=170667a&w=0&k=20&c=Jm2ene9O0qktKGWSKrJLli4piZqhjjEydfxdaZJPPio=",
+        "backgroundImage":"https://media.istockphoto.com/id/1401980646/photo/3d-rendered-classic-sculpture-metaverse-avatar-with-network-of-low-poly-glowing-purple-lines.jpg?b=1&s=170667a&w=0&k=20&c=nLf9fDcHVLZ9bPijP5QQrj0apVLdPXITVF6EAMqj1rg=",
+        "readTime" : 0.3,
+        "date": "Mar 23 (7 Days ago)"
+    
+    }
+   
+ ]
